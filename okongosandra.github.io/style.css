@@ -12,3 +12,17 @@ nav ul li a{
     text-decoration: none;
     color: #333;
 }
+
+#about{
+    padding: 20px;
+    background-color: # f9f9f9;
+    text-align: center;/*Center align the content*/
+}
+
+profile-photo{
+    width:150px;/*Adjust the size as needed*/
+    height: 150px;/*Ensure the height matches the width for a perfect circle*/
+    border-radius: 50%;/*This creates the rounded borders*/
+    display: block;
+    margin: 0 auto 20px;/*Center the photo and add some bottom margin*/
+}
