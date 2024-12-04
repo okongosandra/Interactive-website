@@ -53,3 +53,27 @@ section{
     width: 100%;
     max-width: 600%;
 }
+
+nav ul li a{
+    text-decoration: none;
+    color; #333;
+    transition: color0.3s;
+}
+
+nav ul li a:hover{
+    color: #007BFF;
+}
+
+body{
+    font-family: 'robot',sans-serif;
+}
+
+nav ul a:hover"{
+    color:#007BFF;
+    text-decoration:underline;
+}
+
+a:before{
+    content: '✉';
+    margin-right: 5px;
+}
