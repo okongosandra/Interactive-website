@@ -15,7 +15,8 @@ nav ul li a{
 
 #about{
     padding: 20px;
-    background-color: # f9f9f9;
+    background-color: 
+    # f9f9f9;
     text-align: center;/*Center align the content*/
 }
 
@@ -40,4 +41,15 @@ profile-photo{
 #contact{
     padding: 20px;
     background-color: #f9f9f9;
+}
+
+section{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.project{
+    width: 100%;
+    max-width: 600%;
 }
