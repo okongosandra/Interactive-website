@@ -26,3 +26,13 @@ profile-photo{
     display: block;
     margin: 0 auto 20px;/*Center the photo and add some bottom margin*/
 }
+
+#project{
+    padding: 20px;
+}
+
+.project{
+    scroll-margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #add; 
+}
