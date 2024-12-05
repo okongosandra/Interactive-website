@@ -15,9 +15,8 @@ nav ul li a{
 
 #about{
     padding: 20px;
-    background-color: 
-    # f9f9f9;
-    text-align: center;/*Center align the content*/
+    background-color: #f9f9f9;
+    text-align: center; /*Center align the content*/
 }
 
 profile-photo{
@@ -56,7 +55,7 @@ section{
 
 nav ul li a{
     text-decoration: none;
-    color; #333;
+    color: #333;
     transition: color0.3s;
 }
 
@@ -68,7 +67,7 @@ body{
     font-family: 'robot',sans-serif;
 }
 
-nav ul a:hover"{
+nav ul a:hover{
     color:#007BFF;
     text-decoration:underline;
 }
